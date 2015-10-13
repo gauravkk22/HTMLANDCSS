@@ -1,0 +1,18 @@
+ul.nav {
+     overflow: inherit;
+
+}
+body{
+	font: 13px/19px  Arial, Helvetica, sans-serif;
+	color:black;
+	position:relative;
+	min-width:960px;
+	background:#334960;
+}
+
+
+header {
+	display: block;
+	position: fixed;
+	background-color: "yellow";	
+}
